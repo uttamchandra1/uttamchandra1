@@ -66,7 +66,7 @@ motto:     "Write clean code. Ship fast. Measure everything."
 <tr>
 <td width="50%" valign="top">
 
-#### 🎬 [Dialogue Studio](https://github.com/uttamchandra1/dialogv2)
+#### 🎬 [Dialogue Studio](https://dialogv2-three.vercel.app)
 Professional dialogue management system that converts plain-text scripts into structured JSON with a hierarchical scene/sequence editor.
 
 `React` `JavaScript` `CSS`
@@ -76,7 +76,7 @@ Professional dialogue management system that converts plain-text scripts into st
 </td>
 <td width="50%" valign="top">
 
-#### 📊 [Admin Dashboard UI](https://github.com/uttamchandra1/dashboard-ui)
+#### 📊 [Admin Dashboard UI](https://dashboard-ui-kohl-chi.vercel.app/admin)
 Modern, responsive admin dashboard with reusable components, data views, and clean navigation.
 
 `Next.js` `TypeScript` `CSS`
@@ -88,7 +88,7 @@ Modern, responsive admin dashboard with reusable components, data views, and cle
 <tr>
 <td width="50%" valign="top">
 
-#### 🏗️ [BuildMyn](https://github.com/uttamchandra1/buildmyn)
+#### 🏗️ [BuildMyn](https://buildmyn.vercel.app)
 Production web app built with the Next.js App Router, TypeScript, and a component-driven design.
 
 `Next.js` `TypeScript`
@@ -98,7 +98,7 @@ Production web app built with the Next.js App Router, TypeScript, and a componen
 </td>
 <td width="50%" valign="top">
 
-#### 🎮 [Game of Memes](https://github.com/uttamchandra1/GameOfMemes2)
+#### 🎮 [Game of Memes](https://game-of-memes2.vercel.app)
 Interactive multiplayer meme party game — containerized with Docker and deployed to the cloud.
 
 `JavaScript` `Docker` `HTML/CSS`
@@ -110,7 +110,7 @@ Interactive multiplayer meme party game — containerized with Docker and deploy
 <tr>
 <td width="50%" valign="top">
 
-#### 🔗 [URL Shortener](https://github.com/uttamchandra1/urlshortner)
+#### 🔗 URL Shortener
 Backend service for generating and resolving short links, built in Java.
 
 `Java` `REST API`
@@ -118,7 +118,7 @@ Backend service for generating and resolving short links, built in Java.
 </td>
 <td width="50%" valign="top">
 
-#### 💳 [Venmo Payment Integration](https://github.com/uttamchandra1/venmo-payment)
+#### 💳 Venmo Payment Integration
 Payment flow integration with server-rendered templates and a typed backend.
 
 `TypeScript` `Node.js` `Handlebars`
